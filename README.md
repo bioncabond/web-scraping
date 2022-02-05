@@ -1,4 +1,4 @@
-##Lab: Web Scraping
+##Lab 17 : Web Scraping
 
 PR: https://github.com/bioncabond/web-scraping/pull/1 
 
